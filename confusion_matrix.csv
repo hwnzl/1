@@ -1,0 +1,11 @@
+rater_A_site,esophagus,Z-line,cardia,fundus of stomach,body of stomach,incisura angularis,gastric antrum,pylorus,duodenal bulb,descending duodenum
+esophagus,1350,60,16,4,2,2,3,2,4,1
+Z-line,42,240,80,4,1,2,2,1,1,0
+cardia,8,68,390,8,4,1,2,16,1,0
+fundus of stomach,4,2,8,1060,320,2,6,8,4,2
+body of stomach,2,2,4,294,1486,1,4,2,8,1
+incisura angularis,21,1,2,2,15,700,50,0,3,22
+gastric antrum,3,2,2,8,4,16,870,188,48,2
+pylorus,2,1,16,8,2,1,72,350,4,1
+duodenal bulb,4,1,1,4,8,2,24,4,1050,28
+descending duodenum,1,0,0,2,1,0,2,1,16,900
